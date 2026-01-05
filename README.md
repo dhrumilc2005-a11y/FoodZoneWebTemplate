@@ -1,4 +1,4 @@
-# FoodZoneWebTemplate
+# FoodZoneWebTemplate (BootStrap)
 
 A responsive restaurant & food business website template built using Bootstrap, HTML5, and CSS3.
 FoodZone is ideal for restaurants, cafés, food delivery businesses, catering services, and personal food blogs. The template uses Bootstrap’s grid and components to make development fast and easy, and to ensure the layout adjusts beautifully across all device sizes (desktops, tablets, and mobiles).
